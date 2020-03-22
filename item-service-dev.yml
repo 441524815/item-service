@@ -9,5 +9,4 @@ userservice:
    registration:
       disabled: true
       
-caochunpeng:
-   nihao: 123
+nihao: 123
